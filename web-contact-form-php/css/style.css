@@ -1,0 +1,8 @@
+label {
+    font-weight: bold;
+}
+
+.page-title {
+    text-transform: uppercase;
+    font-weight: 500;
+}
